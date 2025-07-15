@@ -1,4 +1,4 @@
-import util as u
+# import util as u
 import ollamaModel as o
 print("Please answer the following questions.")
 
